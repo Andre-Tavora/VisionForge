@@ -327,10 +327,9 @@ Quando aplicável, os modelos externos foram creditados e utilizados respeitando
 | Integrante                 | Participação                                             |
 | -------------------------- | -------------------------------------------------------- |
 | Carlos André Távora Soares | Desenvolvimento, documentação e estruturação da proposta |
-| Raí Rodrigues              | Desenvolvimento e apoio técnico                          |
-| Eduardo martins            | Desenvolvimento e apoio técnico                          |
-| Ismael Lopes               | Desenvolvimento e apoio técnico                          |
-
+| Raí Rodrigues              | Desenvolvimento, apoio técnico e documentação            |
+| Eduardo martins            | Desenvolvimento, apoio técnico e documentação            |
+| Ismael Lopes               | Desenvolvimento, apoio técnico e documentação            |
 ---
 
 ## 🛍️ Produto
