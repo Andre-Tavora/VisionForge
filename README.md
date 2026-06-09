@@ -183,20 +183,7 @@ Alguns modelos 3D utilizados no projeto são assets externos de apoio, e foram r
 
 ---
 
-## Como executar o projeto
-
-### Pré-requisitos
-
-Antes de abrir o projeto, é necessário ter instalado:
-
-- Unity Hub;
-- Unity 6000.3.13f1 ou versão compatível;
-- suporte a XR Plugin Management;
-- suporte ao Unity Input System;
-- ambiente configurado para simulação VR no Unity.
-
-
-### Passo a passo
+### Passo a passo como executar o projeto
 
 1. Acesse o repositório:
 
@@ -228,7 +215,7 @@ https://youtu.be/_7JVXB4HAcw
 ### Slides da apresentação
 
 ```txt
-https://drive.google.com/SEU-LINK-SLIDES
+https://drive.google.com/file/d/1bQC-aDVh_a5gyEyo463o9F7a8T4Znrsv/view?usp=drive_link
 ```
 ---
 ## ≠ Diferenciais do projeto
