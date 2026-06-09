@@ -183,7 +183,8 @@ Alguns modelos 3D utilizados no projeto são assets externos de apoio, e foram r
 
 ---
 
-### Passo a passo como executar o projeto
+### Passo a passo de como executar o projeto
+## Caso queira utilizar a build:
 
 1. Acesse o repositório:
 
@@ -197,19 +198,43 @@ git clone https://github.com/SEU-USUARIO/VisionSurge.git
 
 4. participe do treinamento.
 
+## Caso queira testar atráves do editor:
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/SEU-USUARIO/VisionSurge.git
+```
+
+2. Abra o Unity Hub.
+
+3. Clique em **Add project from disk**.
+
+4. Selecione a pasta do projeto clonado.
+
+5. Aguarde o Unity resolver os pacotes do projeto.
+
+6. Abra a cena principal:
+
+```txt
+Assets/Scenes/SampleScene.unity
+```
+
+7. Execute a cena pelo botão **Play** no Unity Editor.
+
 ---
 ## Demonstração
 
 ### Vídeo demo
 
 ```txt
-https://youtube.com/SEU-LINK-VIDEO-DEMO
+https://drive.google.com/file/d/1hEupUU-fgu_LEOFDDBDBZqolJp8kwqOy/view?usp=sharing
 ```
 
 ### Vídeo pitch
 
 ```txt
-https://youtu.be/_7JVXB4HAcw
+https://youtu.be/f82-_1KnRws
 ```
 
 ### Slides da apresentação
