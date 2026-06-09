@@ -222,7 +222,7 @@ https://youtube.com/SEU-LINK-VIDEO-DEMO
 ### Vídeo pitch
 
 ```txt
-https://youtube.com/SEU-LINK-VIDEO-PITCH
+https://youtu.be/_7JVXB4HAcw
 ```
 
 ### Slides da apresentação
