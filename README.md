@@ -1,4 +1,4 @@
-# 🥽 VisionForge
+# 🥽 VisionSurge
 
 > Simulação imersiva em realidade virtual para treinamento de instrumentação cirúrgica.
 
@@ -11,7 +11,7 @@
 
 ## 📖 Sobre o Projeto
 
-O **VisionForge** é uma plataforma de treinamento em Realidade Virtual desenvolvida para capacitar instrumentadores cirúrgicos em um ambiente seguro, imersivo e controlado.
+O **VisionSurge** é uma plataforma de treinamento em Realidade Virtual desenvolvida para capacitar instrumentadores cirúrgicos em um ambiente seguro, imersivo e controlado.
 O sistema simula atividades de instrumentação cirúrgica permitindo que estudantes e profissionais pratiquem repetidamente sem riscos ao paciente e sem depender da disponibilidade de centros cirúrgicos reais.
 Desenvolvido durante um Hackathon com foco em inovação para a área da saúde.
 
@@ -25,7 +25,7 @@ A repetição de procedimentos é limitada, o que dificulta o desenvolvimento de
 
 ## 💡 Solução
 
-O **VisionForge** utiliza Realidade Virtual para criar cenários de treinamento que tornam o aprendizado mais seguro, prático e eficiente. 
+O **VisionSurge** utiliza Realidade Virtual para criar cenários de treinamento que tornam o aprendizado mais seguro, prático e eficiente. 
 Por meio de simulações cirúrgicas imersivas, os profissionais podem praticar procedimentos sem riscos ao paciente, repetir atividades 
 quantas vezes forem necessárias e receber feedback imediato sobre seu desempenho. Além disso, a plataforma oferece métricas detalhadas 
 para acompanhamento da evolução e promove uma aprendizagem baseada na experiência prática.
@@ -89,7 +89,6 @@ O fluxo principal da experiência é:
 - ✅ Tutorial guiado
 - ✅ Avaliação de acertos e erros
 - ✅ Ambientes imersivos em VR
-- ✅ Multiplayer
 ---
 
 ## 📂 Estrutura do Projeto
@@ -199,42 +198,19 @@ Antes de abrir o projeto, é necessário ter instalado:
 
 ### Passo a passo
 
-1. Clone o repositório:
+1. Acesse o repositório:
 
 ```bash
 git clone https://github.com/SEU-USUARIO/VisionSurge.git
 ```
 
-2. Abra o Unity Hub.
+2. faça o download do arquivo .exe.
 
-3. Clique em **Add project from disk**.
+3. Clique duas vezes ou, com o botão direito, executar como administrador.
 
-4. Selecione a pasta do projeto clonado.
-
-5. Aguarde o Unity resolver os pacotes do projeto.
-
-6. Abra a cena principal:
-
-```txt
-Assets/Scenes/SampleScene.unity
-```
-
-7. Execute a cena pelo botão **Play** no Unity Editor.
+4. participe do treinamento.
 
 ---
-
-## Forma atual de execução
-
-Nesta versão, o projeto está configurado para execução em:
-
-```txt
-Simulador de óculos VR programado no Unity
-```
-
-Ainda não há build final em APK, WebGL ou executável desktop nesta versão.
-
----
-
 ## Demonstração
 
 ### Vídeo demo
@@ -272,7 +248,6 @@ https://drive.google.com/SEU-LINK-SLIDES
 Por se tratar de um MVP, esta versão possui algumas limitações:
 
 - execução atual apenas em simulador VR no Unity;
-- ausência de build final APK/WebGL;
 - sem tutorial inicial;
 - escopo limitado a interações básicas com instrumentos;
 - ambiente e assets ainda em estágio de protótipo;
