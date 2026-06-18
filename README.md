@@ -1,5 +1,12 @@
 # 🥽 VisionSurge
 
+    Este projeto é um MVP fruto de participação no HackaWeb do Irede
+    Quatro integrantes fizeram parte deste projeto
+    Além de ser coautor cito aqui:
+    Eduardo Martins da Silva
+    Ismael Lopes Sales
+    Raí da Silva Rodrigues
+
 > Simulação imersiva em realidade virtual para treinamento de instrumentação cirúrgica.
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
@@ -15,27 +22,25 @@ O **VisionSurge** é uma plataforma de treinamento em Realidade Virtual desenvol
 O sistema simula atividades de instrumentação cirúrgica permitindo que estudantes e profissionais pratiquem repetidamente sem riscos ao paciente e sem depender da disponibilidade de centros cirúrgicos reais.
 Desenvolvido durante um Hackathon com foco em inovação para a área da saúde.
 
-
 ## 🎯 Problema resolvido
 
-O treinamento tradicional de instrumentação cirúrgica apresenta diversos desafios. O aprendizado ocorre principalmente por observação, com poucas oportunidades 
-de prática em um ambiente seguro. Além disso, os custos operacionais são elevados e há uma forte dependência de ambientes reais para o treinamento. 
+O treinamento tradicional de instrumentação cirúrgica apresenta diversos desafios. O aprendizado ocorre principalmente por observação, com poucas oportunidades
+de prática em um ambiente seguro. Além disso, os custos operacionais são elevados e há uma forte dependência de ambientes reais para o treinamento.
 A repetição de procedimentos é limitada, o que dificulta o desenvolvimento de habilidades, e existe o risco de erros durante o processo de aprendizagem.
-
 
 ## 💡 Solução
 
-O **VisionSurge** utiliza Realidade Virtual para criar cenários de treinamento que tornam o aprendizado mais seguro, prático e eficiente. 
-Por meio de simulações cirúrgicas imersivas, os profissionais podem praticar procedimentos sem riscos ao paciente, repetir atividades 
-quantas vezes forem necessárias e receber feedback imediato sobre seu desempenho. Além disso, a plataforma oferece métricas detalhadas 
+O **VisionSurge** utiliza Realidade Virtual para criar cenários de treinamento que tornam o aprendizado mais seguro, prático e eficiente.
+Por meio de simulações cirúrgicas imersivas, os profissionais podem praticar procedimentos sem riscos ao paciente, repetir atividades
+quantas vezes forem necessárias e receber feedback imediato sobre seu desempenho. Além disso, a plataforma oferece métricas detalhadas
 para acompanhamento da evolução e promove uma aprendizagem baseada na experiência prática.
 
 ## 👨‍⚕️👩‍⚕️Público-alvo
 
-O projeto foi desenvolvido para atender estudantes da área da saúde, instrumentadores cirúrgicos em formação e 
-profissionais que buscam aprimorar suas habilidades práticas. Também é direcionado a cursos técnicos, 
-instituições de ensino, hospitais, clínicas e centros de treinamento que necessitam de soluções eficazes para capacitação. 
-A plataforma permite que equipes pratiquem o reconhecimento, a seleção e a entrega correta de instrumentos cirúrgicos em um ambiente 
+O projeto foi desenvolvido para atender estudantes da área da saúde, instrumentadores cirúrgicos em formação e
+profissionais que buscam aprimorar suas habilidades práticas. Também é direcionado a cursos técnicos,
+instituições de ensino, hospitais, clínicas e centros de treinamento que necessitam de soluções eficazes para capacitação.
+A plataforma permite que equipes pratiquem o reconhecimento, a seleção e a entrega correta de instrumentos cirúrgicos em um ambiente
 seguro e controlado, contribuindo para o desenvolvimento técnico e a redução de erros durante o aprendizado.
 
 ## ᯅ Experiência imersiva
@@ -51,10 +56,10 @@ O fluxo principal da experiência é:
 5. o instrumento é entregue ao médico;
 6. o sistema valida se a entrega está correta ou incorreta.
 
-
 ---
 
 ## 🚀 Funcionalidades
+
 - Ambiente cirúrgico 3D navegável;
 - Simulação em primeira pessoa;
 - Interação com instrumentos cirúrgicos;
@@ -65,21 +70,22 @@ O fluxo principal da experiência é:
 - Configuração para uso com simulador de óculos VR no Unity.
 
 ---
+
 ## 🛠️ Tecnologias Utilizadas
 
-| Tecnologia | Versão | Função |
-|------------|---------|---------|
-| **Android (Meta Quest OS)** | 2.4 | Plataforma alvo de deploy |
-| **Assets 3D em formato FBX** | — |Modelagem e representação visual dos instrumentos cirúrgicos e elementos do cenário |
-| **C#** | — | Linguagem de programação dos scripts de interatividade |
-| **Meta XR SDK** | 201.0.0 | SDK para interação VR no Meta Quest |
-| **OpenXR** | 1.16.1 | Camada de abstração multiplataforma para XR |
-| **TextMesh Pro** | 3.2.0-pre.15 | Renderização de texto de alta qualidade nos totens |
-| **Unity** | 6000.3.13f1 (Unity 6) | Engine principal de desenvolvimento |
-| **Unity Input System** | 1.18.0 | Sistema de entrada para controles do Quest |
-| **Universal Render Pipeline (URP)** | 17.3.0 | Pipeline de renderização otimizado para VR |
-| **Unity Input System** | — | Sistema de entrada para controles do Quest e captura de interações do usuário |
-| **XR Plugin Management** | 4.5.4 | Gerenciamento e integração dos provedores XR utilizados pelo projeto |
+| Tecnologia                          | Versão                | Função                                                                              |
+| ----------------------------------- | --------------------- | ----------------------------------------------------------------------------------- |
+| **Android (Meta Quest OS)**         | 2.4                   | Plataforma alvo de deploy                                                           |
+| **Assets 3D em formato FBX**        | —                     | Modelagem e representação visual dos instrumentos cirúrgicos e elementos do cenário |
+| **C#**                              | —                     | Linguagem de programação dos scripts de interatividade                              |
+| **Meta XR SDK**                     | 201.0.0               | SDK para interação VR no Meta Quest                                                 |
+| **OpenXR**                          | 1.16.1                | Camada de abstração multiplataforma para XR                                         |
+| **TextMesh Pro**                    | 3.2.0-pre.15          | Renderização de texto de alta qualidade nos totens                                  |
+| **Unity**                           | 6000.3.13f1 (Unity 6) | Engine principal de desenvolvimento                                                 |
+| **Unity Input System**              | 1.18.0                | Sistema de entrada para controles do Quest                                          |
+| **Universal Render Pipeline (URP)** | 17.3.0                | Pipeline de renderização otimizado para VR                                          |
+| **Unity Input System**              | —                     | Sistema de entrada para controles do Quest e captura de interações do usuário       |
+| **XR Plugin Management**            | 4.5.4                 | Gerenciamento e integração dos provedores XR utilizados pelo projeto                |
 
 ### Implementadas
 
@@ -89,6 +95,7 @@ O fluxo principal da experiência é:
 - ✅ Tutorial guiado
 - ✅ Avaliação de acertos e erros
 - ✅ Ambientes imersivos em VR
+
 ---
 
 ## 📂 Estrutura do Projeto
@@ -115,6 +122,7 @@ VisionSurge/
 ├── .gitignore
 └── VisionForge.slnx
 ```
+
 ---
 
 ## 🎬 Cena principal
@@ -143,6 +151,7 @@ MedicoPedido.cs
 NarraçãoTutorial.cs
 TipoInstrumento.cs
 ```
+
 ### Descrição geral dos scripts
 
 | Script                | Função no projeto                                                                              |
@@ -155,6 +164,7 @@ TipoInstrumento.cs
 | `TipoInstrumento.cs`  | Define ou organiza os tipos de instrumentos utilizados na validação.                           |
 
 ---
+
 ## Assets 3D
 
 Os modelos 3D estão localizados principalmente em:
@@ -184,6 +194,7 @@ Alguns modelos 3D utilizados no projeto são assets externos de apoio, e foram r
 ---
 
 ### Passo a passo de como executar o projeto
+
 ## Caso queira utilizar a build:
 
 1. Acesse o repositório:
@@ -223,6 +234,7 @@ Assets/Scenes/SampleScene.unity
 7. Execute a cena pelo botão **Play** no Unity Editor.
 
 ---
+
 ## Demonstração
 
 ### Vídeo demo
@@ -242,7 +254,9 @@ https://youtu.be/f82-_1KnRws
 ```txt
 https://drive.google.com/file/d/1bQC-aDVh_a5gyEyo463o9F7a8T4Znrsv/view?usp=drive_link
 ```
+
 ---
+
 ## ≠ Diferenciais do projeto
 
 - Simulação prática em ambiente cirúrgico;
@@ -290,6 +304,7 @@ Ferramentas utilizadas:
 - ChatGPT.
 
 Finalidades de uso:
+
 - apoio na organização da documentação;
 - estruturação do README;
 - revisão textual;
@@ -317,6 +332,7 @@ Quando aplicável, os modelos externos foram creditados e utilizados respeitando
 | Raí Rodrigues              | Desenvolvimento, apoio técnico e documentação            |
 | Eduardo martins            | Desenvolvimento, apoio técnico e documentação            |
 | Ismael Lopes               | Desenvolvimento, apoio técnico e documentação            |
+
 ---
 
 ## 🛍️ Produto
@@ -339,7 +355,8 @@ Build final: não disponível nesta versão
 ---
 
 ## 🧾Licença
+
 Este projeto foi desenvolvido para fins acadêmicos e demonstrativos no contexto do HackWeb / ExpoVerse.
 A definição de licença pública poderá ser ajustada posteriormente pela equipe.
 
->VisionSurge — treinar antes do ambiente real.
+> VisionSurge — treinar antes do ambiente real.
